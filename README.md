@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aniol24&repo=Aniol24"  />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aniol24&repo=C-Pathfinding"  />
 </div>
 
 
