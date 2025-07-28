@@ -1,15 +1,4 @@
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aniol24&repo=C-Pathfinding"  />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aniol24&repo=sudokuSolver"  />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aniol24&repo=HAL-9000-System"  />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aniol24&repo=Simpl"  />
-</div>
-
-
 <h1 align="center">Hey! 👋 What's up?</h1>
 
 ###
