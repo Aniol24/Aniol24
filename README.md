@@ -12,6 +12,7 @@
 ###
 
 <p align="center">Junior Software Engineer | Full Stack Developer<br>📍 Barcelona  <br>📧 aniolverges7@gmail.com</p>
+<p align="center"><a href="https://aniol.dev" target="_blank">🌐 Visit my portfolio → aniol.dev</a></p>
 
 ###
 
