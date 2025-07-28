@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">Junior Software Engineer | Full Stack Developer<br>📍 Olot, Spain  <br>📧 aniolverges7@gmail.com</p>
+<p align="center">Junior Software Engineer | Full Stack Developer<br>📍 Barcelona  <br>📧 aniolverges7@gmail.com</p>
 
 ###
 
