@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">I'm Aniol, Full-stack software developer</p>
+<p align="center">I'm Aniol, Full-Stack Software Engineer</p>
 
 ###
 
